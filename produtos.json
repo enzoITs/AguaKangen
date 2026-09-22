@@ -1,0 +1,119 @@
+{
+  "site": {
+    "baseUrl": "https://SEU-DOMINIO.com.br",
+    "nome": "Água Kangen",
+    "descricao": "Ionizadores de água Kangen da Enagic com demonstração presencial gratuita."
+  },
+  "produtos": [
+    {
+      "slug": "leveluk-k8",
+      "nome": "LeveLuk K8",
+      "categoria": "Ionizador de bancada",
+      "posicionamento": "O modelo mais completo da linha doméstica, com oito placas de eletrólise.",
+      "chamada": "Oito placas. Cinco águas. Um painel que explica tudo.",
+      "resumo": "Ionizador de bancada com oito placas de titânio revestidas em platina, painel LCD colorido e fonte multivoltagem.",
+      "descricao": "O LeveLuk K8 é o ionizador de bancada com o maior número de placas da linha doméstica Kangen: oito placas de titânio revestidas em platina. Produz os mesmos cinco tipos de água dos demais modelos da linha, com maior capacidade de ionização. Destaca-se pelo painel LCD colorido com avisos de voz, pelo guia de limpeza eletrônico e pela fonte multivoltagem, que permite o uso em diferentes padrões de tensão.",
+      "imagem": "img/LeveLuk-K8",
+      "galeria": ["img/LeveLuk-K8", "img/02-png", "img/03-png", "img/img-01"],
+      "badge": "8 placas",
+      "destaque": true,
+      "paraQuem": [
+        "Famílias com uso intenso na cozinha",
+        "Quem quer o modelo mais completo da linha doméstica",
+        "Quem prefere uma interface por toque com avisos de voz"
+      ],
+      "diferenciais": [
+        { "titulo": "Oito placas de eletrólise", "texto": "Uma placa a mais que o SD501 Platinum, o que amplia a capacidade de ionização do equipamento." },
+        { "titulo": "Painel LCD colorido", "texto": "Você escolhe a água por toque e o equipamento confirma a seleção por voz." },
+        { "titulo": "Fonte multivoltagem", "texto": "Preparada para diferentes padrões de tensão. O plugue correspondente é vendido separadamente." },
+        { "titulo": "Guia de limpeza eletrônico", "texto": "O próprio aparelho conduz o ciclo de limpeza mensal, passo a passo." }
+      ],
+      "specs": [
+        ["Placas de eletrólise", "8 placas de titânio revestidas em platina"],
+        ["Tipos de água", "5 (Kangen, Neutra, Beleza, Super Ácida, Super Alcalina)"],
+        ["Faixa de pH", "2.5 a 11.5, conforme a seleção"],
+        ["Painel", "LCD colorido com avisos de voz"],
+        ["Aviso de troca de filtro", "Automático"],
+        ["Guia de limpeza", "Eletrônico, integrado ao equipamento"],
+        ["Alimentação", "Fonte multivoltagem"],
+        ["Instalação", "Conectado à torneira da cozinha, sem obra na maioria dos casos"],
+        ["Troca de filtro", "A cada cerca de 6.000 litros ou 1 ano de uso"],
+        ["Limpeza", "Ciclo mensal com sal de limpeza eletrolítico próprio"],
+        ["Garantia", "5 anos de fábrica"],
+        ["Vida útil estimada", "Até 25 anos com os cuidados recomendados"]
+      ]
+    },
+    {
+      "slug": "leveluk-sd501-platinum",
+      "nome": "LeveLuk SD501 Platinum",
+      "categoria": "Ionizador de bancada",
+      "posicionamento": "O modelo consagrado da linha, com sete placas e painel LCD.",
+      "chamada": "O clássico da cozinha, com voz em cinco idiomas.",
+      "resumo": "Ionizador de bancada com sete placas de titânio banhadas a platina, painel LCD grande e avisos de voz.",
+      "descricao": "O LeveLuk SD501 Platinum é o modelo de referência da linha doméstica Kangen. Possui sete placas de titânio banhadas a platina em uma câmara de eletrólise integrada, painel LCD grande e avisos de voz em cinco idiomas: inglês, alemão, francês, italiano e espanhol. É instalado na cozinha e conectado à torneira.",
+      "imagem": "img/Leveluk-SD501-Platinum",
+      "galeria": ["img/Leveluk-SD501-Platinum", "img/01-png", "img/Agua-Kangen-LEVELUK-SD501-PLATINUM-1"],
+      "badge": "7 placas",
+      "destaque": false,
+      "paraQuem": [
+        "Quem quer o modelo mais conhecido da linha",
+        "Uso doméstico diário na cozinha",
+        "Quem prefere painel LCD com botões e avisos de voz"
+      ],
+      "diferenciais": [
+        { "titulo": "Sete placas de eletrólise", "texto": "Câmara de eletrólise integrada com sete placas de titânio banhadas a platina." },
+        { "titulo": "Painel LCD grande", "texto": "Leitura direta da seleção, com um botão para cada tipo de água." },
+        { "titulo": "Voz em cinco idiomas", "texto": "Inglês, alemão, francês, italiano e espanhol." },
+        { "titulo": "Aviso automático de filtro", "texto": "O equipamento avisa quando chega a hora de trocar o filtro." }
+      ],
+      "specs": [
+        ["Placas de eletrólise", "7 placas de titânio banhadas a platina"],
+        ["Tipos de água", "5 (Kangen, Neutra, Beleza, Super Ácida, Super Alcalina)"],
+        ["Faixa de pH", "2.5 a 11.5, conforme a seleção"],
+        ["Produção", "Cerca de 2 a 4 litros de Água Kangen por minuto"],
+        ["Painel", "LCD grande"],
+        ["Avisos de voz", "5 idiomas (inglês, alemão, francês, italiano, espanhol)"],
+        ["Aviso de troca de filtro", "Automático"],
+        ["Alimentação", "Fonte bivolt"],
+        ["Instalação", "Conectado à torneira da cozinha, sem obra na maioria dos casos"],
+        ["Troca de filtro", "A cada cerca de 6.000 litros ou 1 ano de uso"],
+        ["Limpeza", "Ciclo mensal com sal de limpeza eletrolítico próprio"],
+        ["Garantia", "5 anos de fábrica"],
+        ["Vida útil estimada", "Até 25 anos com os cuidados recomendados"]
+      ]
+    },
+    {
+      "slug": "anespa-dx",
+      "nome": "Ducha Anespa DX",
+      "categoria": "Tratamento para o banho",
+      "posicionamento": "O tratamento da água do banho, complementar à linha de cozinha.",
+      "chamada": "A mesma atenção com a água, agora no chuveiro.",
+      "resumo": "Sistema instalado no chuveiro, com filtragem em dois estágios e cartucho cerâmico mineral.",
+      "descricao": "A Ducha Anespa DX trata a água do banho. Com um cartucho cerâmico, filtra cloro e outras substâncias presentes na água da torneira e adiciona minerais naturais. Não é um ionizador de bancada: funciona como complemento à linha de ionizadores Kangen, instalada diretamente no chuveiro. A comercialização pode variar conforme o distribuidor — consulte a disponibilidade na sua região.",
+      "imagem": "img/Anespa-DX",
+      "galeria": ["img/Anespa-DX"],
+      "badge": "Banho",
+      "destaque": false,
+      "paraQuem": [
+        "Quem já tem ou pretende ter um ionizador de cozinha",
+        "Quem quer estender o tratamento da água para o banho",
+        "Cuidados com pele e cabelo durante o banho"
+      ],
+      "diferenciais": [
+        { "titulo": "Filtragem em dois estágios", "texto": "Camadas de carvão ativado e cerâmica trabalham juntas antes de a água tocar a pele." },
+        { "titulo": "Cartucho cerâmico mineral", "texto": "Filtra cloro e outras substâncias da água da torneira e adiciona minerais naturais." },
+        { "titulo": "Ducha com massagem", "texto": "Regulagens de jato ajustáveis no próprio chuveiro." },
+        { "titulo": "Instalação no chuveiro", "texto": "Conectada ao ponto do chuveiro, sem relação com a instalação da cozinha." }
+      ],
+      "specs": [
+        ["Tipo de equipamento", "Tratamento da água do banho"],
+        ["Filtragem", "Dois estágios: carvão ativado e cerâmica"],
+        ["Cartucho", "Cerâmico, com adição de minerais naturais"],
+        ["Ducha", "Jato com regulagens ajustáveis"],
+        ["Instalação", "Conectada ao chuveiro"],
+        ["Relação com a linha Kangen", "Complementar aos ionizadores de cozinha"],
+        ["Disponibilidade", "Consultar o distribuidor na sua região"]
+      ]
+    }
+  ]
+}
